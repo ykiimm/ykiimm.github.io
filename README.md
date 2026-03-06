@@ -4,11 +4,10 @@
 여기에 제가 찍은 사진들과 기록들을 남길 예정입니다.
 
 ### 갤러리 모음
-<p align="center">
-  <img src="images_for_homepage/photo1.jpg" width="30%" />
-  <img src="images_for_homepage/photo2.jpg" width="30%" />
-  <img src="images_for_homepage/photo3.jpg" width="30%" />
-</p>
-
+<div align="center">
+  <img src="images/photo1.jpg" height="300px" style="object-fit: cover; width: 200px; border-radius: 10px; margin: 5px;">
+  <img src="images/photo2.jpg" height="300px" style="object-fit: cover; width: 200px; border-radius: 10px; margin: 5px;">
+  <img src="images/photo3.jpg" height="300px" style="object-fit: cover; width: 200px; border-radius: 10px; margin: 5px;">
+</div>
 * **취미:** 사진 찍기, 코딩 공부
 * **목표:** 멋진 나만의 웹사이트 완성하기
