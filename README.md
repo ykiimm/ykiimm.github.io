@@ -5,3 +5,11 @@
 
 * **취미:** 사진 찍기, 코딩 공부
 * **목표:** 멋진 나만의 웹사이트 완성하기
+
+
+
+### 📸 
+![사진 설명](images_for_homepage/photo1.jpg)
+
+### 📸 
+![사진 설명](images_for_homepage/photo2.jpg)
